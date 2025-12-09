@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/reposit/mechanics-prototyping/Mechanics/Mechanics/Content/Materials/blue_emissive.uasset",
+				"C:/reposit/mechanics-prototyping/Mechanics/Mechanics/Content/StartMap.umap",
+				"C:/reposit/mechanics-prototyping/Mechanics/Mechanics/Content/Blueprints/BP_PlayerCharacter.uasset",
 				"C:/Unreal Projects/Mechanics/Content/Blueprints/MechGameMode.uasset",
 				"C:/Unreal Projects/Mechanics/Content/Blueprints/IA_Move.uasset",
 				"C:/Unreal Projects/Mechanics/Content/Blueprints/NewInputMappingContext.uasset",
