@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/h018792o/Documents/GitHub/mechanics-prototyping/Mechanics/Mechanics/Content/StudentWork/bp_projectile.uasset",
+				"C:/Users/h018792o/Documents/GitHub/mechanics-prototyping/Mechanics/Mechanics/Content/StartMap.umap",
+				"C:/Users/h018792o/Documents/GitHub/mechanics-prototyping/Mechanics/Mechanics/Content/Blueprints/Weapons/BP_Starter_Weapon.uasset",
+				"C:/Users/h018792o/Documents/GitHub/mechanics-prototyping/Mechanics/Mechanics/Content/Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/h018792o/Documents/GitHub/mechanics-prototyping/Mechanics/Mechanics/Content/StudentWork/NewBlueprint.uasset",
+				"C:/Users/h018792o/Documents/GitHub/mechanics-prototyping/Mechanics/Mechanics/Content/StudentWork/bp_target.uasset",
+				"C:/Users/h018792o/Documents/GitHub/mechanics-prototyping/Mechanics/Mechanics/Content/Emitters/EXPLOSIO.uasset",
 				"C:/reposit/mechanics-prototyping/Mechanics/Mechanics/Content/Materials/blue_emissive.uasset",
 				"C:/reposit/mechanics-prototyping/Mechanics/Mechanics/Content/StartMap.umap",
 				"C:/reposit/mechanics-prototyping/Mechanics/Mechanics/Content/Blueprints/BP_PlayerCharacter.uasset",
